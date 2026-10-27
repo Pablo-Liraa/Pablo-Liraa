@@ -1,14 +1,14 @@
 # 👩🏻‍💻 Pablo Lira
 
-**`Desenvolvedora FullStack`**
+**` 📊 Analista de Dados | Analista de Automação`**
 
-Sou Pablo Lira, profissional com experiência nas áreas de Tecnologia da Informação, análise de processos, dados e projetos de melhoria.
+Sou Pablo Lira, profissional com experiência em Tecnologia da Informação, análise de dados, análise de processos e projetos de melhoria contínua.
 
-Ao longo da minha trajetória profissional, desenvolvi uma visão ampla sobre o funcionamento das operações e das áreas de negócio, buscando compreender problemas, identificar oportunidades e utilizar a tecnologia para tornar processos mais eficientes.
+Tenho experiência na análise de indicadores, elaboração de relatórios gerenciais e identificação de oportunidades de melhoria, buscando transformar dados em informações relevantes para apoiar a tomada de decisões e otimizar processos de negócio.
 
-Minha experiência envolve suporte de TI, atendimento de demandas, gestão de ativos, análise de indicadores, elaboração de relatórios, melhoria de processos, homologação e implementação de soluções. Essas vivências fortaleceram minha capacidade analítica e minha habilidade de conectar necessidades do negócio a soluções tecnológicas.
+Minha atuação envolve suporte de TI, gestão de ativos, acompanhamento de projetos, melhoria de processos, homologação e implementação de soluções. Essas atividades contribuem para conectar as necessidades do negócio à tecnologia, buscando resultados mais eficientes.
 
-Atualmente, busco continuar ampliando meus conhecimentos em tecnologia e desenvolvimento de software, aprimorando minhas habilidades técnicas e explorando novas possibilidades para criar soluções que gerem valor.
+Atualmente, curso Engenharia de Software e busco aprofundar meus conhecimentos em análise de dados, automação de processos e desenvolvimento de software, unindo conhecimentos técnicos e visão de negócio para desenvolver soluções que gerem valor.
 
 
 <p align="left">
@@ -43,52 +43,104 @@ Atualmente, busco continuar ampliando meus conhecimentos em tecnologia e desenvo
     src="https://img.shields.io/github/stars/Pablo-Liraa?style=for-the-badge&color=D49B16&labelColor=F5C451&label=Estrelas"
   />
 </a>
-
 </p>
 
 ---
-
-### 💻 Linguagens e Tecnologias
-
 ### 💻 Linguagens e Tecnologias
 
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" /><br>
-      Python
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python" /><br>
+      <sub>Python</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" alt="MySQL" /><br>
-      MySQL
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" alt="MySQL" /><br>
+      <sub>MySQL</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" alt="SQL Server" /><br>
-      SQL Server
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/dbeaver/382923" width="40" alt="DBeaver" /><br>
+      <sub>DBeaver</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="45" alt="Power BI" /><br>
-      Power BI
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/microstrategy/D9232E" width="40" alt="MicroStrategy" /><br>
+      <sub>MicroStrategy</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftoffice/microsoftoffice-original.svg" width="45" alt="Microsoft Office" /><br>
-      Office
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="Docker" /><br>
+      <sub>Docker</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftoffice/microsoftoffice-original.svg" width="45" alt="Excel" /><br>
-      Excel
+<td align="center" width="110">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+       width="40" alt="C" title="Linguagem C" /><br>
+  <sub>Linguagem C</sub>
+</td>
+  </tr>
+</table>
+
+## 🚀 O que eu faço
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Análise de Dados</h3>
+      <p>Transformo dados em informações relevantes para apoiar decisões estratégicas e identificar oportunidades de melhoria.</p>
+      <p><strong>Atuação:</strong></p>
+      <ul>
+        <li>Análise de indicadores (KPIs)</li>
+        <li>Elaboração de relatórios gerenciais</li>
+        <li>Análise e interpretação de dados</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 Análise de Projetos</h3>
+      <p>Contribuo para o acompanhamento de projetos, organização de demandas e identificação de melhorias nos processos.</p>
+      <p><strong>Atuação:</strong></p>
+      <ul>
+        <li>Acompanhamento de projetos</li>
+        <li>Levantamento de requisitos</li>
+        <li>Homologação e implementação de soluções</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Automação de Processos</h3>
+      <p>Busco oportunidades para simplificar atividades, reduzir tarefas manuais e melhorar a eficiência operacional.</p>
+      <p><strong>Atuação:</strong></p>
+      <ul>
+        <li>Automação com Python</li>
+        <li>Otimização de processos</li>
+        <li>Organização e tratamento de dados</li>
+      </ul>
+      <td width="50%" valign="top">
+  <h3>📈 Análise de Processos</h3>
+  <p>Identifico oportunidades de melhoria e busco tornar os processos mais eficientes por meio da análise de informações e fluxos de trabalho.</p>
+  <p><strong>Atuação:</strong></p>
+  <ul>
+    <li>Mapeamento e análise de processos</li>
+    <li>Identificação de gargalos e melhorias</li>
+    <li>Otimização de fluxos de trabalho</li>
+  </ul>
+</td>
     </td>
   </tr>
 </table>
 
-### 🛠️ Conhecimentos
+### 📊 Estatísticas
 
-![Automação de Processos](https://img.shields.io/badge/Automa%C3%A7%C3%A3o_de_Processos-333333?style=flat)
-![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-555555?style=flat)
-![Análise de Dados](https://img.shields.io/badge/An%C3%A1lise_de_Dados-777777?style=flat)
-![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-181717?style=flat)
+<p>
+  <img
+    align="left"
+    alt="Estatísticas do GitHub"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=Pablo-Liraa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
 
-<br/>
-<br/>
-
-
+  <img
+    align="left"
+    alt="Linguagens mais utilizadas"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Liraa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p></Writing
